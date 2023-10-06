@@ -1,0 +1,1 @@
+/mnt/d/ACS/Anul_III/SO/operating-systems-full/content/assignments/minishell/checker/_test
